@@ -74,7 +74,7 @@ print(whichint)
 
 
 ## Imputing missing values
-
+Calculating and reporting the total number of missing values in the dataset (i.e. the total number of rows with NAs)
 
 
 ## Are there differences in activity patterns between weekdays and weekends?
